@@ -1,4 +1,5 @@
-from validator import validate_semantic_integrity
+
+        from validator import validate_semantic_integrity
         from engine import SemanticEngine
 
 def run():
