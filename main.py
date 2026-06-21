@@ -1,5 +1,5 @@
-from src.validator import validate_semantic_integrity
-from src.engine import SemanticEngine
+from validator import validate_semantic_integrity
+        from engine import SemanticEngine
 
 def run():
     print("--- PoS-Align Nodo Iniciado ---")
